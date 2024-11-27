@@ -2,8 +2,6 @@
 # Happy Hacking Space - Article Hub
 
 ## Prepare repository
- - **Create a New Repository**:
- 
  - **Organize Markdown Files by Category**:
     - Create folders in the repository to represent categories, e.g., 
  - **IoT**
