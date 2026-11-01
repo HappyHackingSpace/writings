@@ -82,3 +82,7 @@ jobs:
     
 - **Commit and Push**:
     - Once you save the workflow, commit and push it to your repository. GitHub Actions will automatically trigger on every push to the `main` branch.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HappyHackingSpace/writings&type=Date)](https://star-history.com/#HappyHackingSpace/writings&Date)
